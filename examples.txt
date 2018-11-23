@@ -1,0 +1,7 @@
+find ~reference(Matt 26.1-2) 
+find ~reference(Matt.26.1-2) 
+find ~reference(Mt.26.1-2) 
+find ~reference(Mt 26:1-13)
+find ~reference(Matt 26:1-2)
+find ~reference(Matthew 26:1-2)
+find ~reference(Matthew 26.1-2)

@@ -1,0 +1,14 @@
+{
+  "categories" : [
+    "Search"
+  ],
+  "displayName" : "Bible Verse Lookup",
+  "name" : "bible-verses",
+  "description" : "This plugin returns Bible verses from a reference search",
+  "examples" : [
+    "Matt.26.1",
+    "Matt 26.1-2",
+    "Matthew 26:1",
+    "Matthew 26.1-12"
+  ]
+}
