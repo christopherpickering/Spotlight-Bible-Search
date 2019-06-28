@@ -1,4 +1,6 @@
-This is an auto-generated plugin skeleton. Edit the `examples.txt`, `info.json` and `plugin.py` files to turn it into the plugin you need.
+Mac Spotlight plugin for searching for Bible verses from the spotlight search.
+
+See the docs below for installation. 
 
 For more info on how this works, see [the docs](https://github.com/nate-parrott/Flashlight/wiki/Creating-a-Plugin).
 
